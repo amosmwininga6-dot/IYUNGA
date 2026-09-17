@@ -1,0 +1,35 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+    margin:30px;
+}
+/*navigation*/
+nav{
+    color: rgb(0, 255, 170);
+    margin: 0cm;
+
+}
+/*paragraph*/
+p{
+    color: white;
+}
+    p2{
+        color: white
+    }
+    img{
+        height: 7cm;width: 8cm;
+        align-items: first baseline;
+    }
+    about.html{
+       background-color:  blue;
+    }
+    contact.html{
+        background-color: rgb(16, 139, 221);
+    }
+    p3{
+        color: white;
+    }
+    h4{
+        color: white;
+    }
+
